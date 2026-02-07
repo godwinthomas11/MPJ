@@ -1,0 +1,2 @@
+MPJ ASSIGNMENT 2 
+In this assignment, a Java program is written to show how inheritance works. An Employee class is used as the base class, and FullTimeEmployee and InternEmployee are derived from it. The program calculates salary hikes for both types of employees and displays their salary before and after the hike.
